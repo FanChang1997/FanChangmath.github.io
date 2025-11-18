@@ -1,17 +1,14 @@
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+Hey! Welcome to my homepage! My name is Fan Chang(Chinese name 常帆). I am a Ph.D. candidate in Statistics at the Nankai University, under the wonderful supervision of Associate Professor 
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: cf25264[at]163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.Sc. in Mathematics, Shandong University, 2020—2023.\
+B.Sc. in Mathematics, Shandong University, 2015—2019.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Analysis of Boolean functions, Extremal and Probabilistic combinatorics, Discrete Functional inequality, Information method in combinatorics and applications in TCS.
 
