@@ -8,3 +8,8 @@ Email: cf25264[at]163.com
 #### Research Interests
 Analysis of Boolean functions, Extremal and Probabilistic combinatorics, Discrete Functional inequality, Information method in combinatorics and applications in TCS.
 
+#### Grants and Awards
+
+- Talagrand-type Correlation Inequalities and Applications in Extremal Combinatorics, NSFC(Ph.D.), 2025-2026.
+  
+- Outstanding Graduate of Shandong Province, 2023.
