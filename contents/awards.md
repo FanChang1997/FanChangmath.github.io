@@ -1,3 +1,1 @@
-- Talagrand-type Correlation Inequalities and Applications in Extremal Combinatorics, NSFC(Ph.D.), 2025-2026.
-
-- Outstanding Graduate of Shandong Province, 2023. 
+- [Topics in Combinatorics / Analysis of Boolean Functions](https://fanchang1997.github.io/SDU-Boolean-functions-analysis-Course.io/) (2025春季讨论班：布尔函数分析学)
