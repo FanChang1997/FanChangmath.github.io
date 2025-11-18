@@ -9,5 +9,5 @@
 
 #### PUBLICATIONS
 
-- <strong>Fan Chang</strong>, Jie Han, Jaehoon Kim, Guanghui Wang and Donglei Yang (2023). Embedding clique-factors in graphs with low \ell-independence number. <strong> Journal of Combinatorial Theory, Series B s</strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S009589562300014X)
+- <strong>Fan Chang</strong>, Jie Han, Jaehoon Kim, Guanghui Wang and Donglei Yang (2023). Embedding clique-factors in graphs with low \ell-independence number. <strong> Journal of Combinatorial Theory, Series B</strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S009589562300014X)
 
