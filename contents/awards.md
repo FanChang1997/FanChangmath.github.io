@@ -24,8 +24,6 @@
 
 - Jul-Aug 2024, <strong>[Tianyuan Summer Seminar on Functional Analysis and Spaces 2024](https://im.hit.edu.cn/2024/0515/c8389a344802/page.htm)</strong>, IASM of HIT, Haerbin, China
 
-- Jul-Aug 2024, <strong>[Tianyuan Summer Seminar on Functional Analysis and Spaces 2024](https://im.hit.edu.cn/2024/0515/c8389a344802/page.htm)</strong>, IASM of HIT, Haerbin, China
-
 - Jul-Aug 2023, <strong>[Summer courses 2023: Frontiers of Combinatorics](https://www.ibs.re.kr/ecopro/summer-2023/)</strong>, IBS ECOPRO & Shandong University, Jinan, China
 
 - Jul 2023, <strong>[The 2nd Summer School on The Beauty of Computational Theory](https://tcs.nju.edu.cn/wiki/index.php?title=%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA%E4%B9%8B%E7%BE%8E_(Summer_2023))</strong>, Nanjing University, Nanjing, China
