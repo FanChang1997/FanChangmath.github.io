@@ -18,6 +18,8 @@
 
 #### ACTIVITIES
 
+- Oct-Nov 2025, <strong>[The 5th workshop Developments in Combinatorics](https://www.ibs.re.kr/ecopro/development-in-combinatorics-5th-workshop-2025/)</strong>, IBS ECOPRO, Jeju island, Seoul
+  
 - Jul-Aug 2025, <strong>[Summer courses 2025: Frontiers of Combinatorics](https://www.ibs.re.kr/ecopro/summer-2025/)</strong>, IBS ECOPRO, Daejeon, Seoul
 
 - Aug 2024, <strong>[The International Conference and PhD-Master Summer School "Graphs and Groups, Complexity and Convexity" (G2C2)](http://app.hebtu.edu.cn/2024g2c2/)</strong>, IASM of HIT, Shijiazhuang, China
