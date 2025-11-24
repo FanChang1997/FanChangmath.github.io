@@ -18,7 +18,7 @@
 
 #### ACTIVITIES
 
-- Jul-Aug 2025, <strong>Summer courses 2025: Frontiers of Combinatorics</strong>[https://www.ibs.re.kr/ecopro/summer-2025/], IBS ECOPRO, Daejeon, Seoul
+- Jul-Aug 2025, <strong>[Summer courses 2025: Frontiers of Combinatorics](https://www.ibs.re.kr/ecopro/summer-2025/)</strong>, IBS ECOPRO, Daejeon, Seoul
 
 - Jul-Aug 2024, <strong>Tianyuan Summer Seminar on Functional Analysis and Spaces 2024[https://im.hit.edu.cn/2024/0515/c8389a344802/page.htm]</strong>, IASM of HIT, Haerbin, China
 
