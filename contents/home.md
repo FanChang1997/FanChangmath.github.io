@@ -13,3 +13,5 @@ Analysis of Boolean functions, Extremal and Probabilistic combinatorics, Discret
 - Talagrand-type Correlation Inequalities and Applications in Extremal Combinatorics, NSFC(Ph.D.), 2025-2026.
   
 - Outstanding Graduate of Shandong Province, 2023.
+
+I will occasionally update my mathematics blog posts on Chinese community platforms, such as my WeChat Official Account (Chinese name: 布宜诺斯艾利斯的试验田) and [Zhihu homepage](https://www.zhihu.com/people/850249ab6e8cca64d9a5d48c3a5340f1).
