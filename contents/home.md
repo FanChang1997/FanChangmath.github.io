@@ -14,6 +14,8 @@ Analysis of Boolean functions, Extremal and Probabilistic combinatorics, Discret
   
 - Outstanding Graduate of Shandong Province, 2023.
 
+#### Blog
+
 I will occasionally update my mathematics blog posts on Chinese community platforms, such as my WeChat Official Account (Chinese name: 布宜诺斯艾利斯的试验田) and [Zhihu homepage](https://www.zhihu.com/people/850249ab6e8cca64d9a5d48c3a5340f1). My recent blog posts are as follows: [从 Russo–Margulis 公式谈起—Yuval Filmus 暑期课程小记（一）](https://mp.weixin.qq.com/s/MmV-ouKiQ1U6_rHyt8uDEg); [布尔函数分析+群论？](https://mp.weixin.qq.com/s/IyFCIfVfbtFQOkU09NoCGQ); [布尔函数分析遇见极值组合—Global hypercontractivity与Junta近似方法](https://mp.weixin.qq.com/s/PtT2GAtijiV5Jp4hmktHjg).
 
 
