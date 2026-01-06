@@ -1,6 +1,6 @@
 #### PREPRINTS
 
-- <strong>Fan Chang</strong>, Peijie Li (2026). Quantum Talagrand-type Inequalities via Variance Decay.
+- <strong>Fan Chang</strong>, Peijie Li (2026). Quantum Talagrand-type Inequalities via Variance Decay. [[arXiv]](https://arxiv.org/abs/2601.01900)
 
 - <strong>Fan Chang</strong> (2025). A Lower Bound for the Fourier Entropy of Boolean Functions on the Biased Hypercube. [[arXiv]](https://arxiv.org/abs/2511.07739)
 
