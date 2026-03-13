@@ -4,6 +4,8 @@
 
 #### TALKS
 
+- March 2026, <strong>[Functional inequalities and random walks on increasing subsets of the hypercube](https://www.math.nus.edu.sg/category/events/colloquia-seminars/combinatorics-graph-theory/)</strong>, Combinatorics & Graph Theory Seminar, National University of Singapore, Singapore
+
 - April 2025, <strong>A new biased edge-isoperimetric inequality on the hypercube</strong>, SDU Youth Forumon Graph Theory and Combinatorics, Shandong University, Jinan, China
 
 - June 2024, <strong>Four different proofs of KKL</strong>, Student analysis Seminar, IASM of HIT, Haerbin, China
