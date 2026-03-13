@@ -8,7 +8,7 @@
 
 - April 2025, <strong>A new biased edge-isoperimetric inequality on the hypercube</strong>, SDU Youth Forumon Graph Theory and Combinatorics, Shandong University, Jinan, China
 
-- June 2024, <strong>Four different proofs of KKL</strong>, Student analysis Seminar, IASM of HIT, Haerbin, China
+- June 2024, <strong>[Four different proofs of KKL](https://im.hit.edu.cn/2024/0527/c15120a345598/page.htm)</strong>, Student analysis Seminar, IASM of HIT, Haerbin, China
 
 - March 2024, <strong> Boolean analysis on the finite group</strong>, SDU Combinatorics Seminar, Shandong University, Online, China
 
