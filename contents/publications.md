@@ -16,6 +16,8 @@
 
 #### READING NOTES
 
+- <strong>Fan Chang</strong> (2026). Talagrand’s Correlation Inequality and Related Results. [[Note]](https://www.jianguoyun.com/p/DTMgP-MQ94KRDRjNjJ0GIAA)
+
 - <strong>Fan Chang</strong> (2025). On the distribution of the Fourier spectrum of Boolean functions: Bourgain's Proof Revisited. [[Note]](https://drive.google.com/file/d/16xOmPOi9KgjxZYwnktnGcSqIThSqrxnR/view?usp=sharing)
 
 - <strong>Fan Chang</strong> (2025). Intersection problems with symmetry conditions. [[Note]](https://drive.google.com/file/d/1YPkPeEm6cA6TxSV_A5ietm0408Rj94tg/view?usp=sharing)
