@@ -2,7 +2,7 @@
 
 - <strong>Fan Chang</strong>, Hong Liu, Miao Liu (2026). A Sharp Product Bound for $r$-Cross-Intersecting Families. 
 
-- <strong>Fan Chang</strong>, Joseph Slote, Alexander Volberg, Haonan Zhang (2026). The Boolean surface area of polynomial threshold functions. 
+- <strong>Fan Chang</strong>, Joseph Slote, Alexander Volberg, Haonan Zhang (2026). The Boolean surface area of polynomial threshold functions. [[arXiv]](https://arxiv.org/pdf/2604.08095v2)
 
 - <strong>Fan Chang</strong>, Peijie Li (2026). Quantum Talagrand-type Inequalities via Variance Decay. [[arXiv]](https://arxiv.org/abs/2601.01900)
 
