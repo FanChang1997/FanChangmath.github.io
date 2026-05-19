@@ -4,15 +4,15 @@
 
 - <strong>Fan Chang</strong>, Joseph Slote, Alexander Volberg, Haonan Zhang (2026). The Boolean surface area of polynomial threshold functions. [[arXiv]](https://arxiv.org/pdf/2604.08095v2)
 
-- <strong>Fan Chang</strong>, Peijie Li (2026). Quantum Talagrand-type Inequalities via Variance Decay. [[arXiv]](https://arxiv.org/abs/2601.01900)
+- <strong>Fan Chang</strong>, Peijie Li (2026). Quantum Talagrand-type Inequalities via Variance Decay. [[arXiv]](https://arxiv.org/abs/2601.01900v2)
 
-- <strong>Fan Chang</strong> (2025). A Lower Bound for the Fourier Entropy of Boolean Functions on the Biased Hypercube. [[arXiv]](https://arxiv.org/abs/2511.07739)
+- <strong>Fan Chang</strong> (2025). A Lower Bound for the Fourier Entropy of Boolean Functions on the Biased Hypercube. [[arXiv]](https://arxiv.org/abs/2511.07739v3)
 
-- <strong>Fan Chang</strong>, Yu Chen (2025). Talagrand-Type Correlation Inequalities for Supermodular and Submodular Functions on the Hypercube. [[arXiv]](https://arxiv.org/abs/2510.22307)
+- <strong>Fan Chang</strong>, Yu Chen (2025). Talagrand-Type Correlation Inequalities for Submodular and Supermodular Functions on the Hypercube. [[arXiv]](https://arxiv.org/abs/2510.22307v2)
 
-- <strong>Fan Chang</strong>, Yijia Fang (2025).  VC-Dimension vs Degree: An Uncertainty Principle for Boolean Functions. [[arXiv]](https://arxiv.org/abs/2510.13705)
+- <strong>Fan Chang</strong>, Yijia Fang (2025). VC-Dimension vs Degree: An Uncertainty Principle for Boolean Functions. [[arXiv]](https://arxiv.org/abs/2510.13705)
 
-- <strong>Fan Chang</strong>, Guowei Sun, Lei Yu (2025).  Functional Inequalities and Random Walks on Increasing Subsets of the Hypercube. [[arXiv]](https://arxiv.org/abs/2506.09852)
+- <strong>Fan Chang</strong>, Guowei Sun, Lei Yu (2025).  Functional Inequalities and Random Walks on Increasing Subsets of the Hypercube. [[arXiv]](https://arxiv.org/abs/2506.09852v3)
 
 #### PUBLICATIONS
 
