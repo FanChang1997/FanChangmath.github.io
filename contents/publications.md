@@ -1,6 +1,8 @@
 #### PREPRINTS
 
-- <strong>Fan Chang</strong>, Hong Liu, Miao Liu (2026). A Sharp Product Bound for $r$-Cross-Intersecting Families. 
+- <strong>Fan Chang</strong>, Hong Liu, Miao Liu (2026). A Sharp Product Bound for $r$-Cross-Intersecting Families.
+
+- <strong>Fan Chang</strong> (2026). A spectral correlation inequality for increasing Boolean functions. [[arXiv]](https://arxiv.org/abs/2606.08958)
 
 - <strong>Fan Chang</strong>, Joseph Slote, Alexander Volberg, Haonan Zhang (2026). The Boolean surface area of polynomial threshold functions. [[arXiv]](https://arxiv.org/pdf/2604.08095v2)
 
