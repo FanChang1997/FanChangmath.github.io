@@ -1,6 +1,6 @@
 #### PREPRINTS
 
-- <strong>Fan Chang</strong>, Hong Liu, Miao Liu (2026). A Sharp Product Bound for $r$-Cross-Intersecting Families.
+- <strong>Fan Chang</strong>, Hong Liu, Miao Liu (2026). A Sharp Product Bound for $r$-Cross-Intersecting Families. [[arXiv]](https://arxiv.org/abs/2606.15618)
 
 - <strong>Fan Chang</strong> (2026). A spectral correlation inequality for increasing Boolean functions. [[arXiv]](https://arxiv.org/abs/2606.08958)
 
