@@ -16,7 +16,7 @@
 
 - <strong>Fan Chang</strong>, Yijia Fang (2025). VC-Dimension vs Degree: An Uncertainty Principle for Boolean Functions. [[arXiv]](https://arxiv.org/abs/2510.13705)
 
-- <strong>Fan Chang</strong>, Guowei Sun, Lei Yu (2025).  Functional Inequalities and Random Walks on Increasing Subsets of the Hypercube. [[arXiv]](https://arxiv.org/abs/2506.09852v3)
+- <strong>Fan Chang</strong>, Guowei Sun, Lei Yu (2025).  Functional Inequalities and Random Walks on Increasing Subsets of the Hypercube. [[arXiv]](https://arxiv.org/abs/2506.09852v3) <strong>SIAM Journal on Discrete Mathematics</strong>, accepted.
 
 #### PUBLICATIONS
 
