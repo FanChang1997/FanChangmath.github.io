@@ -1,6 +1,6 @@
 #### PREPRINTS
 
-- <strong>Fan Chang</strong>, Hong Liu, Miao Liu (2026). The sharp diagonal spectral correlation inequality on the discrete cube. [[arXiv]](https://arxiv.org/abs/2606.15618)
+- <strong>Fan Chang</strong>, Hong Liu, Miao Liu (2026). The sharp diagonal spectral correlation inequality on the discrete cube. [[arXiv]](https://arxiv.org/abs/2606.32024)
 
 - <strong>Fan Chang</strong>, Hong Liu, Miao Liu (2026). A Sharp Product Bound for $r$-Cross-Intersecting Families. [[arXiv]](https://arxiv.org/abs/2606.15618)
 
