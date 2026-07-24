@@ -1,8 +1,12 @@
 #### PREPRINTS
 
-- <strong>Fan Chang</strong>, Hong Liu, Miao Liu (2026). The sharp diagonal spectral correlation inequality on the discrete cube. [[arXiv]](https://arxiv.org/abs/2606.32024)
+- </strong>Fan Chang</strong>, Hong Liu, Miao Liu (2026). The Frankl--Tokushige product conjectures for r-cross-intersecting families. [[arXiv]](https://arxiv.org/abs/2607.21589)
 
-- <strong>Fan Chang</strong>, Hong Liu, Miao Liu (2026). A Sharp Product Bound for $r$-Cross-Intersecting Families. [[arXiv]](https://arxiv.org/abs/2606.15618)
+  See also below our earlier work for the equal-biased case.
+
+  </strong>Fan Chang</strong>, Hong Liu, Miao Liu (2026). A Sharp Product Bound for $r$-Cross-Intersecting Families. [[arXiv]](https://arxiv.org/abs/2606.15618)
+
+- <strong>Fan Chang</strong>, Hong Liu, Miao Liu (2026). The sharp diagonal spectral correlation inequality on the discrete cube. [[arXiv]](https://arxiv.org/abs/2606.32024)
 
 - <strong>Fan Chang</strong> (2026). A spectral correlation inequality for increasing Boolean functions. [[arXiv]](https://arxiv.org/abs/2606.08958)
 
