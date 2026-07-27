@@ -16,7 +16,7 @@
 
 - <strong>Fan Chang</strong> (2025). A Lower Bound for the Fourier Entropy of Boolean Functions on the Biased Hypercube. [[arXiv]](https://arxiv.org/abs/2511.07739v3)
 
-- <strong>Fan Chang</strong>, Yu Chen (2025). Talagrand-Type Correlation Inequalities for Submodular and Supermodular Functions on the Hypercube. [[arXiv]](https://arxiv.org/abs/2510.22307v2)
+- <strong>Fan Chang</strong>, Yu Chen (2025). Talagrand-Type Correlation Inequalities for Submodular and Supermodular Functions on the Hypercube. [[arXiv]](https://arxiv.org/abs/2510.22307v2) <strong>Journal of Combinatorial Theory, Series A</strong>, accepted.
 
 - <strong>Fan Chang</strong>, Yijia Fang (2025). VC-Dimension vs Degree: An Uncertainty Principle for Boolean Functions. [[arXiv]](https://arxiv.org/abs/2510.13705)
 
