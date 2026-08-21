@@ -6,11 +6,11 @@ Hey, welcome to my homepage! My name is Fan Chang(Chinese name 常帆). I am a P
 Email: cf25264[at]163.com
 
 #### Research Interests
-Analysis of Boolean functions, Extremal and Probabilistic combinatorics, Discrete Functional inequality, Information method in combinatorics and applications in TCS.
+Analysis of Boolean functions, Extremal and Probabilistic combinatorics, Discrete Functional inequality, High-dimensional phenomena in probability.
 
 #### Grants and Awards
 
-- Talagrand-type Correlation Inequalities and Applications in Extremal Combinatorics, NSFC(Ph.D.), 2025-2026.
+- Talagrand-type Correlation Inequalities and Applications in Extremal Combinatorics, NSFC(Ph.D.), 2025.01-2027.01.
   
 - Outstanding Graduate of Shandong Province, 2023.
 
