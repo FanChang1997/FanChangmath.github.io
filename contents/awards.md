@@ -22,7 +22,7 @@
 
 #### ACTIVITIES
 
-- Jul-Aug 2026, <strong>[Innovations and Challenges in Extremal Combinatorics]([https://www.ibs.re.kr/ecopro/summer-2025/](https://ims.nus.edu.sg/events/extremalcombinatorics/))</strong>, The Institute for Mathematical Sciences (IMS), Singapore
+- Jul-Aug 2026, <strong>[Innovations and Challenges in Extremal Combinatorics](https://ims.nus.edu.sg/events/extremalcombinatorics/)</strong>, The Institute for Mathematical Sciences (IMS), Singapore
 
 - Oct-Nov 2025, <strong>[The 5th workshop Developments in Combinatorics](https://www.ibs.re.kr/ecopro/development-in-combinatorics-5th-workshop-2025/)</strong>, IBS ECOPRO, Jeju island, South Korea
   
