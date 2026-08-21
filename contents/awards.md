@@ -4,7 +4,7 @@
 
 #### TALKS
 
-- August 2026, <strong>[Functional inequalities and random walks on increasing subsets of the hypercube](https://ims.nus.edu.sg/events/extremalcombinatorics/)</strong>, ASIACOMB 2026, Daejeon, South Korea
+- August 2026, <strong>Functional inequalities and random walks on increasing subsets of the hypercube</strong>, [ASIACOMB 2026](https://asiacomb.com/program/), Daejeon, South Korea
 
 - March 2026, <strong>[Functional inequalities and random walks on increasing subsets of the hypercube](https://www.math.nus.edu.sg/category/events/colloquia-seminars/combinatorics-graph-theory/)</strong>, Combinatorics & Graph Theory Seminar, National University of Singapore, Singapore
 
