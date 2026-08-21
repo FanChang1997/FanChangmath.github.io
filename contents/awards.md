@@ -4,6 +4,8 @@
 
 #### TALKS
 
+- August 2026, <strong>[Functional inequalities and random walks on increasing subsets of the hypercube](https://ims.nus.edu.sg/events/extremalcombinatorics/)</strong>, ASIACOMB 2026, Daejeon, South Korea
+
 - March 2026, <strong>[Functional inequalities and random walks on increasing subsets of the hypercube](https://www.math.nus.edu.sg/category/events/colloquia-seminars/combinatorics-graph-theory/)</strong>, Combinatorics & Graph Theory Seminar, National University of Singapore, Singapore
 
 - April 2025, <strong>A new biased edge-isoperimetric inequality on the hypercube</strong>, SDU Youth Forumon Graph Theory and Combinatorics, Shandong University, Jinan, China
@@ -20,9 +22,11 @@
 
 #### ACTIVITIES
 
-- Oct-Nov 2025, <strong>[The 5th workshop Developments in Combinatorics](https://www.ibs.re.kr/ecopro/development-in-combinatorics-5th-workshop-2025/)</strong>, IBS ECOPRO, Jeju island, Seoul
+- Jul-Aug 2026, <strong>[Innovations and Challenges in Extremal Combinatorics]([https://www.ibs.re.kr/ecopro/summer-2025/](https://ims.nus.edu.sg/events/extremalcombinatorics/))</strong>, The Institute for Mathematical Sciences (IMS), Singapore
+
+- Oct-Nov 2025, <strong>[The 5th workshop Developments in Combinatorics](https://www.ibs.re.kr/ecopro/development-in-combinatorics-5th-workshop-2025/)</strong>, IBS ECOPRO, Jeju island, South Korea
   
-- Jul-Aug 2025, <strong>[Summer courses 2025: Frontiers of Combinatorics](https://www.ibs.re.kr/ecopro/summer-2025/)</strong>, IBS ECOPRO, Daejeon, Seoul
+- Jul-Aug 2025, <strong>[Summer courses 2025: Frontiers of Combinatorics](https://www.ibs.re.kr/ecopro/summer-2025/)</strong>, IBS ECOPRO, Daejeon, South Korea
 
 - Aug 2024, <strong>[The International Conference and PhD-Master Summer School "Graphs and Groups, Complexity and Convexity" (G2C2)](http://app.hebtu.edu.cn/2024g2c2/)</strong>, Hebei Normal University, Shijiazhuang, China
 
