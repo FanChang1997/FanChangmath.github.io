@@ -2,7 +2,7 @@
 
 - <strong>Fan Chang</strong> (2026). Quantitative bounds for regular $3$-wise intersecting families. [[arXiv]](https://arxiv.org/abs/2608.20242)
 
-- <strong>Fan Chang</strong>, Hong Liu, Miao Liu (2026). The Frankl--Tokushige product conjectures for $r$-cross-intersecting families. [[arXiv]](https://arxiv.org/abs/2607.21589)
+- <strong>Fan Chang</strong>, Hong Liu, Miao Liu (2026). Upper-shadow comparisons on the slice and the Frankl--Tokushige product conjectures. [[arXiv]](https://arxiv.org/abs/2607.21589)
 
   See also below our earlier work for the equal-biased case.
 
