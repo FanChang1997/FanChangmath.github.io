@@ -24,7 +24,7 @@
 
 #### PUBLICATIONS
 
-- <strong>Fan Chang</strong>, Yu Chen (2026). Talagrand-Type Correlation Inequalities for Submodular and Supermodular Functions on the Hypercube. [[arXiv]](https://arxiv.org/abs/2510.22307v2) <strong>Journal of Combinatorial Theory, Series A</strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0097316526000865)
+- <strong>Fan Chang</strong>, Yu Chen (2025). Talagrand-Type Correlation Inequalities for Submodular and Supermodular Functions on the Hypercube. [[arXiv]](https://arxiv.org/abs/2510.22307v2) <strong>Journal of Combinatorial Theory, Series A</strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0097316526000865)
   
 - <strong>Fan Chang</strong>, Jie Han, Jaehoon Kim, Guanghui Wang and Donglei Yang (2023). Embedding clique-factors in graphs with low \ell-independence number. <strong> Journal of Combinatorial Theory, Series B</strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S009589562300014X)
 
