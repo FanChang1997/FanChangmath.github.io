@@ -1,5 +1,7 @@
 #### PREPRINTS
 
+- <strong>Fan Chang</strong> (2026). A hypercontractive proof of the sharp bound for cancellative pairs. [[arXiv]](https://arxiv.org/abs/2608.20242)
+
 - <strong>Fan Chang</strong> (2026). Quantitative bounds for regular $3$-wise intersecting families. [[arXiv]](https://arxiv.org/abs/2608.20242)
 
 - <strong>Fan Chang</strong>, Hong Liu, Miao Liu (2026). Upper-shadow comparisons on the slice and the Frankl--Tokushige product conjectures. [[arXiv]](https://arxiv.org/abs/2607.21589)
