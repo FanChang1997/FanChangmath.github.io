@@ -4,6 +4,10 @@
 
 #### TALKS
 
+- September 2026, <strong>[A proof of Chv\'atal's conjecture via a sharp correlation inequality](http://www.mis.sdu.edu.cn/info/1225/5775.htm)</strong>, Research Center for Mathematics and Interdisciplinary Sciences, Shandong University, Qingdao, China.
+
+- September 2026, <strong>[A proof of Chvátal's conjecture via Boolean function analysis](https://mp.weixin.qq.com/s/SlwYD-u9L0PU5RqKaykffQ)</strong>, SDU Combinatorics Group, Jinan, China.
+
 - August 2026, <strong>Functional inequalities and random walks on increasing subsets of the hypercube</strong>, [ASIACOMB 2026](https://asiacomb.com/program/), Daejeon, South Korea
 
 - March 2026, <strong>[Functional inequalities and random walks on increasing subsets of the hypercube](https://www.math.nus.edu.sg/category/events/colloquia-seminars/combinatorics-graph-theory/)</strong>, Combinatorics & Graph Theory Seminar, National University of Singapore, Singapore
