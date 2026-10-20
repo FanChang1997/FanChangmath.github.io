@@ -1,5 +1,7 @@
 #### PREPRINTS
 
+- <strong>Fan Chang</strong>, Peter Frankl, Jian Wang (2026). Proving the optimality of the product construction for the intersection--union problem. [[arXiv]](https://arxiv.org/abs/2610.25049)
+
 - <strong>Fan Chang</strong>, Hong Liu, Miao Liu (2026). A proof of Chvátal's conjecture via a sharp correlation inequality. [[arXiv]](https://arxiv.org/abs/2609.19123)
 
 - <strong>Fan Chang</strong> (2026). A hypercontractive proof of the sharp bound for cancellative pairs. [[arXiv]](https://arxiv.org/abs/2609.09105)
