@@ -1,5 +1,7 @@
 #### PREPRINTS
 
+- <strong>Fan Chang</strong>, Zhenyu Li, Guanghui Wang, Mingrui Wang (2026). Fourier level inequalities on the discrete cube via complex hypercontractivity and Riesz transforms. [[arXiv]](https://arxiv.org/abs/2611.08289)
+
 - <strong>Fan Chang</strong>, Peter Frankl, Jian Wang (2026). Proving the optimality of the product construction for the intersection--union problem. [[arXiv]](https://arxiv.org/abs/2610.25049)
 
 - <strong>Fan Chang</strong>, Hong Liu, Miao Liu (2026). A proof of Chvátal's conjecture via a sharp correlation inequality. [[arXiv]](https://arxiv.org/abs/2609.19123)
