@@ -4,6 +4,8 @@
 
 #### TALKS
 
+- November 2026, <strong>At the Intersection of Combinatorics, Probability, and Discrete Analysis: Correlation Inequalities on the Discrete Cube</strong>, Shanghai Center for Mathematical Sciences, Fudan University, Shanghai, China.
+
 - October 2026, <strong>[Chvátal's Conjecture and Correlation Inequalities](https://tianyuan.scu.edu.cn/portal/article/index/id/1764/cid/3.html)</strong>, Tianyuan Mathematical Center in Southwest China, Sichuan University, Chengdu, China.
 
 - September 2026, <strong>[A proof of Chvátal's conjecture via a sharp correlation inequality](http://www.mis.sdu.edu.cn/info/1225/5775.htm)</strong>, Research Center for Mathematics and Interdisciplinary Sciences, Shandong University, Qingdao, China.
