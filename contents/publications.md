@@ -36,6 +36,10 @@
   
 - <strong>Fan Chang</strong>, Jie Han, Jaehoon Kim, Guanghui Wang and Donglei Yang (2023). Embedding clique-factors in graphs with low \ell-independence number. <strong> Journal of Combinatorial Theory, Series B</strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S009589562300014X)
 
+#### REFEREEING
+
+STOC (2027), SODA (2027), IEEE Transactions on Information Theory, Journal of Combinatorial Theory, Series A 
+
 #### READING NOTES
 
 - <strong>Fan Chang</strong> (2026). Talagrand’s Correlation Inequality and Related Results. [[Note]](https://www.jianguoyun.com/p/DTMgP-MQ94KRDRjNjJ0GIAA)
